@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name = "size_player_sign">100dp</dimen>
+    <dimen name = "size_game_board">320dp</dimen>
+</resources>

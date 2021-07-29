@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="single_player">Single Player</string>
+    <string name="online">Online</string>
+    <string name="about">About</string>
+    <string name="back">Back</string>
+    <string name="exit">Exit</string>
+    <string name="about_description">
+            This Game is made for fun.
+        It can be played by single or multiplayer.
+                 So what are you waiting for
+                     check it out!
+    </string>
+</resources>
